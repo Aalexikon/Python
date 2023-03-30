@@ -39,4 +39,4 @@ vystup=Label(tk, text="", bg="#adefd1")
 vystup.pack()
 
 tk.mainloop()
-#jjj
+#jjjhhh
