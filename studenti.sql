@@ -1,0 +1,104 @@
+CREATE DATABASE Novak CHARACTER SET utf8 COLLATE utf8_czech_ci;
+CREATE USER 'Novak'@'localhost' IDENTIFIED BY 'Novak123.';
+GRANT ALL PRIVILEGES ON Novak.* TO 'Novak'@'localhost' WITH GRANT OPTION;
+
+CREATE DATABASE Karel CHARACTER SET utf8 COLLATE utf8_czech_ci;
+CREATE USER 'Karel'@'localhost' IDENTIFIED BY 'Karel123.';
+GRANT ALL PRIVILEGES ON Karel.* TO 'Karel'@'localhost' WITH GRANT OPTION;
+
+CREATE DATABASE Hrnec CHARACTER SET utf8 COLLATE utf8_czech_ci;
+CREATE USER 'Hrnec'@'localhost' IDENTIFIED BY 'Hrnec123.';
+GRANT ALL PRIVILEGES ON Hrnec.* TO 'Hrnec'@'localhost' WITH GRANT OPTION;
+
+CREATE DATABASE Kucera CHARACTER SET utf8 COLLATE utf8_czech_ci;
+CREATE USER 'Kucera'@'localhost' IDENTIFIED BY 'Kucera123.';
+GRANT ALL PRIVILEGES ON Kucera.* TO 'Kucera'@'localhost' WITH GRANT OPTION;
+
+CREATE DATABASE Kiričenko CHARACTER SET utf8 COLLATE utf8_czech_ci;
+CREATE USER 'Kiričenko'@'localhost' IDENTIFIED BY 'Kiričenko123.';
+GRANT ALL PRIVILEGES ON Kiričenko.* TO 'Kiričenko'@'localhost' WITH GRANT OPTION;
+
+CREATE DATABASE Franta CHARACTER SET utf8 COLLATE utf8_czech_ci;
+CREATE USER 'Franta'@'localhost' IDENTIFIED BY 'Franta123.';
+GRANT ALL PRIVILEGES ON Franta.* TO 'Franta'@'localhost' WITH GRANT OPTION;
+
+CREATE DATABASE Piskal CHARACTER SET utf8 COLLATE utf8_czech_ci;
+CREATE USER 'Piskal'@'localhost' IDENTIFIED BY 'Piskal123.';
+GRANT ALL PRIVILEGES ON Piskal.* TO 'Piskal'@'localhost' WITH GRANT OPTION;
+
+CREATE DATABASE Munkim CHARACTER SET utf8 COLLATE utf8_czech_ci;
+CREATE USER 'Munkim'@'localhost' IDENTIFIED BY 'Munkim123.';
+GRANT ALL PRIVILEGES ON Munkim.* TO 'Munkim'@'localhost' WITH GRANT OPTION;
+
+CREATE DATABASE Berserk CHARACTER SET utf8 COLLATE utf8_czech_ci;
+CREATE USER 'Berserk'@'localhost' IDENTIFIED BY 'Berserk123.';
+GRANT ALL PRIVILEGES ON Berserk.* TO 'Berserk'@'localhost' WITH GRANT OPTION;
+
+CREATE DATABASE Kacenko CHARACTER SET utf8 COLLATE utf8_czech_ci;
+CREATE USER 'Kacenko'@'localhost' IDENTIFIED BY 'Kacenko123.';
+GRANT ALL PRIVILEGES ON Kacenko.* TO 'Kacenko'@'localhost' WITH GRANT OPTION;
+
+CREATE DATABASE Lucius CHARACTER SET utf8 COLLATE utf8_czech_ci;
+CREATE USER 'Lucius'@'localhost' IDENTIFIED BY 'Lucius123.';
+GRANT ALL PRIVILEGES ON Lucius.* TO 'Lucius'@'localhost' WITH GRANT OPTION;
+
+CREATE DATABASE Ronet CHARACTER SET utf8 COLLATE utf8_czech_ci;
+CREATE USER 'Ronet'@'localhost' IDENTIFIED BY 'Ronet123.';
+GRANT ALL PRIVILEGES ON Ronet.* TO 'Ronet'@'localhost' WITH GRANT OPTION;
+
+CREATE DATABASE Gilgat CHARACTER SET utf8 COLLATE utf8_czech_ci;
+CREATE USER 'Gilgat'@'localhost' IDENTIFIED BY 'Gilgat123.';
+GRANT ALL PRIVILEGES ON Gilgat.* TO 'Gilgat'@'localhost' WITH GRANT OPTION;
+
+CREATE DATABASE Guts CHARACTER SET utf8 COLLATE utf8_czech_ci;
+CREATE USER 'Guts'@'localhost' IDENTIFIED BY 'Guts123.';
+GRANT ALL PRIVILEGES ON Guts.* TO 'Guts'@'localhost' WITH GRANT OPTION;
+
+CREATE DATABASE Ulundru CHARACTER SET utf8 COLLATE utf8_czech_ci;
+CREATE USER 'Ulundru'@'localhost' IDENTIFIED BY 'Ulundru123.';
+GRANT ALL PRIVILEGES ON Ulundru.* TO 'Ulundru'@'localhost' WITH GRANT OPTION;
+
+CREATE DATABASE Miku CHARACTER SET utf8 COLLATE utf8_czech_ci;
+CREATE USER 'Miku'@'localhost' IDENTIFIED BY 'Miku123.';
+GRANT ALL PRIVILEGES ON Miku.* TO 'Miku'@'localhost' WITH GRANT OPTION;
+
+CREATE DATABASE Finlad CHARACTER SET utf8 COLLATE utf8_czech_ci;
+CREATE USER 'Finlad'@'localhost' IDENTIFIED BY 'Finlad123.';
+GRANT ALL PRIVILEGES ON Finlad.* TO 'Finlad'@'localhost' WITH GRANT OPTION;
+
+CREATE DATABASE Dreveny CHARACTER SET utf8 COLLATE utf8_czech_ci;
+CREATE USER 'Dreveny'@'localhost' IDENTIFIED BY 'Dreveny123.';
+GRANT ALL PRIVILEGES ON Dreveny.* TO 'Dreveny'@'localhost' WITH GRANT OPTION;
+
+CREATE DATABASE Makovy CHARACTER SET utf8 COLLATE utf8_czech_ci;
+CREATE USER 'Makovy'@'localhost' IDENTIFIED BY 'Makovy123.';
+GRANT ALL PRIVILEGES ON Makovy.* TO 'Makovy'@'localhost' WITH GRANT OPTION;
+
+CREATE DATABASE Hruba CHARACTER SET utf8 COLLATE utf8_czech_ci;
+CREATE USER 'Hruba'@'localhost' IDENTIFIED BY 'Hruba123.';
+GRANT ALL PRIVILEGES ON Hruba.* TO 'Hruba'@'localhost' WITH GRANT OPTION;
+
+CREATE DATABASE Kozata CHARACTER SET utf8 COLLATE utf8_czech_ci;
+CREATE USER 'Kozata'@'localhost' IDENTIFIED BY 'Kozata123.';
+GRANT ALL PRIVILEGES ON Kozata.* TO 'Kozata'@'localhost' WITH GRANT OPTION;
+
+CREATE DATABASE Pica CHARACTER SET utf8 COLLATE utf8_czech_ci;
+CREATE USER 'Pica'@'localhost' IDENTIFIED BY 'Pica123.';
+GRANT ALL PRIVILEGES ON Pica.* TO 'Pica'@'localhost' WITH GRANT OPTION;
+
+CREATE DATABASE Muslim CHARACTER SET utf8 COLLATE utf8_czech_ci;
+CREATE USER 'Muslim'@'localhost' IDENTIFIED BY 'Muslim123.';
+GRANT ALL PRIVILEGES ON Muslim.* TO 'Muslim'@'localhost' WITH GRANT OPTION;
+
+CREATE DATABASE Hruba CHARACTER SET utf8 COLLATE utf8_czech_ci;
+CREATE USER 'Hruba'@'localhost' IDENTIFIED BY 'Hruba123.';
+GRANT ALL PRIVILEGES ON Hruba.* TO 'Hruba'@'localhost' WITH GRANT OPTION;
+
+CREATE DATABASE Polohruba CHARACTER SET utf8 COLLATE utf8_czech_ci;
+CREATE USER 'Polohruba'@'localhost' IDENTIFIED BY 'Polohruba123.';
+GRANT ALL PRIVILEGES ON Polohruba.* TO 'Polohruba'@'localhost' WITH GRANT OPTION;
+
+CREATE DATABASE Hladka CHARACTER SET utf8 COLLATE utf8_czech_ci;
+CREATE USER 'Hladka'@'localhost' IDENTIFIED BY 'Hladka123.';
+GRANT ALL PRIVILEGES ON Hladka.* TO 'Hladka'@'localhost' WITH GRANT OPTION;
+

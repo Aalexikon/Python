@@ -1,0 +1,16 @@
+python -m venv .muj_virtualek
+
+cd .muj_virtualek\Scripts
+.\activate
+
+pip install numpy
+pip install matplotlib
+pip install openpyxl
+pip install pandas
+
+#deactivate #pro deaktivaci virtualu
+
+# pokud nejde: spustit jako Local Admin: PowerShell
+# Get-ExecutionPolicy -List
+# Set-ExecutionPolicy -ExecutionPolicy AllSigned 
+# a dát Y
